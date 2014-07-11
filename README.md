@@ -1,4 +1,4 @@
 rubric_api
 ==========
 
-RESTful API Markup Language (RAML) definition of the Rubric Web Services API
+RESTful API Modeling Language (RAML) definition of the Rubric Web Services API
